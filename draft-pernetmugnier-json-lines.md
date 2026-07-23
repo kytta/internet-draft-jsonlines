@@ -32,6 +32,7 @@ venue:
   github: "sp4ce/jsonlines"
   latest: "https://sp4ce.github.io/jsonlines/internet-draft/draft-pernetmugnier-json-lines.html"
 
+ipr: trust200902
 author:
  -
     fullname: Baptiste Pernet-Mugnier
