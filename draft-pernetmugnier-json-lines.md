@@ -36,6 +36,10 @@ author:
  -
     fullname: Baptiste Pernet-Mugnier
     email: baptiste.pernetmugnier@gmail.com
+ -
+    fullname: Nikita Karamov
+    organization: Hornetsecurity GmbH
+    email: me@kytta.dev
 
 normative:
 
