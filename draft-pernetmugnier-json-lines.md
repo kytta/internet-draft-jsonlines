@@ -27,26 +27,14 @@ docname: draft-pernetmugnier-json-lines-latest
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
-consensus: true
 v: 3
-# area: AREA
-# workgroup: WG Working Group
-keyword:
- - next generation
- - unicorn
- - sparkling distributed ledger
 venue:
-#  group: WG
-#  type: Working Group
-#  mail: WG@example.com
-#  arch: https://example.com/WG
   github: "sp4ce/jsonlines"
   latest: "https://sp4ce.github.io/jsonlines/internet-draft/draft-pernetmugnier-json-lines.html"
 
 author:
  -
     fullname: Baptiste Pernet-Mugnier
-    organization: Your Organization Here
     email: baptiste.pernetmugnier@gmail.com
 
 normative:
